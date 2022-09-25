@@ -1,16 +1,7 @@
 # permission_app
 
-A new Flutter project.
+## About this app
 
-## Getting Started
+https://user-images.githubusercontent.com/111631451/192138722-36546b17-4fd3-40ce-aef4-dd6c7aa10013.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/111631451/192138361-95c3e1ca-f510-4bce-b43d-f2917eb778e0.png" style="height:500px"/><img src="https://user-images.githubusercontent.com/111631451/192138388-59de4eb2-5ea2-407e-a4d2-2abbb4af60ea.png" style="height:500px"/><img src="https://user-images.githubusercontent.com/111631451/192138435-a5c623d8-8fea-4fc7-b835-bea2618b97d9.png" style="height:500px"/><img src="https://user-images.githubusercontent.com/111631451/192138469-e2568d04-465e-4c4b-88ef-27c3e16b2dc7.png" style="height:500px"/>
